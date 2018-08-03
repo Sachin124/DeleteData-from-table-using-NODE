@@ -1,7 +1,7 @@
-# Fetching MONGODB Data -via-NODE
-In this APP we are fetching MONGODB data via NODEJS
+# Fetching MONGODB Data -via- ObjectId using NODEJS
+In this APP we are fetching the data from MONGODB data via ObjectId using NODEJS
 
 ## Steps to RUN this APP
 ### OPEN the downloaded folder in cmd or terminal 
 ### npm install
-### node ./playgrounds/mongodb-fetchall.js
+### node ./playgrounds/mongodb-objectId.js
