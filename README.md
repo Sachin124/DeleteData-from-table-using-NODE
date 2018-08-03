@@ -1,4 +1,4 @@
-# ConnectMongoDB-via-NODE
+# Fetching MONGODB Data -via-NODE
 In this APP we are fetching MONGODB data via NODEJS
 
 ## Steps to RUN this APP
